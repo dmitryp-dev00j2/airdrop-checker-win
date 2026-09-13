@@ -30,3 +30,5 @@ Options:
 * `--output`: Output CSV file path (defaults to `results.csv`).
 * `--concurrency`: Number of concurrent workers (default is 3 to avoid aggressive rate-limiting).
 * `--skip-starknet`: Skip querying Starknet endpoints if you only care about EVM.
+
+<!-- verified: 2026-09-13 -->
