@@ -31,4 +31,4 @@ Options:
 * `--concurrency`: Number of concurrent workers (default is 3 to avoid aggressive rate-limiting).
 * `--skip-starknet`: Skip querying Starknet endpoints if you only care about EVM.
 
-<!-- verified: 2026-09-21 -->
+<!-- verified: 2026-09-22 -->
